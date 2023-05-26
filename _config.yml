@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Wenzheng Zhao"
-resume_title:                   "MS of University of Washington"
+resume_title:                   "Master's in Electrical and Computer Engineering at the University of Washington"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "wennie99@uw.edu"
